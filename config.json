@@ -1,4 +1,5 @@
 {
     "api": "http://server.mobius.ovh:8000/",
-    "github_oauth_id": "7bd503594a0f9a9f7ed3"
+    "github_oauth_id": "7bd503594a0f9a9f7ed3",
+    "fallback_registries": ["https://github.com/UpliftGames/wally-index"]
 }
